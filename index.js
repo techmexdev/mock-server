@@ -1,6 +1,11 @@
 const express = require('express')
 const axios = require('axios')
 
+if (process.env.SERVER_PORT === undefined) {
+  console.log('ERROR: Environment variable SERVER_PORT should be set')
+  console.log('Ex: "3001"')
+  return
+}
 const app = express()
 
 const festival = {
@@ -37,6 +42,12 @@ for (let i=0; i<25; i++) {
   })
 }
 
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+})
+
 app.get('/api/festivals', (req, res) => res.send(festivalPrevs))
 
 app.get('/api/festivals/austin-city-limits', (req, res) => res.send(festival))
@@ -48,4 +59,4 @@ app.get('/api/artists/:name', async (req, res) => {
   res.send(artist)
 })
 
-app.listen(3000, () => console.log('listening on port 3000'))
+app.listen(process.env.SERVER_PORT, () => console.log(`listening at: ${process.env.SERVER_ADDRESS}`))
