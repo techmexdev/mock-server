@@ -1,0 +1,270 @@
+
+{
+  "name": "Paul McCartney",
+  "id": "4STHEaNw4mPZ2tzheohgXB",
+  "externalUrl": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB",
+  "followers": 1540751,
+  "imgSrc": "https://i.scdn.co/image/2e9e61aa45f32c8d6c35a7e407d50ce1256df210",
+  "popularity": 73,
+  "genres": [
+    "album rock",
+    "art rock",
+    "classic rock",
+    "folk rock",
+    "mellow gold",
+    "rock",
+    "soft rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+  "topTracks": [
+    {
+      "name": "FourFiveSeconds",
+      "externalUrl": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y",
+      "popularity": 74,
+      "album": {
+        "name": "FourFiveSeconds",
+        "imgSrc": "https://i.scdn.co/image/34b6203421f7d638d7a29656d5f1e6d6600a4773",
+        "externalUrl": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
+      }
+    },
+    {
+      "name": "Band On The Run - Remastered 2010",
+      "externalUrl": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY",
+      "popularity": 64,
+      "album": {
+        "name": "Band On The Run",
+        "imgSrc": "https://i.scdn.co/image/a7ae3955240bac82813a95af2479da22e0bb9dc8",
+        "externalUrl": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      }
+    },
+    {
+      "name": "Maybe I’m Amazed - Remastered 2011",
+      "externalUrl": "https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm",
+      "popularity": 58,
+      "album": {
+        "name": "McCartney (Special Edition)",
+        "imgSrc": "https://i.scdn.co/image/a38fd7abfa3a5133a2e2dc35241c84b05af116f9",
+        "externalUrl": "https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H"
+      }
+    },
+    {
+      "name": "Say Say Say - Remastered 2015",
+      "externalUrl": "https://open.spotify.com/track/5AbrdOBpQBsokNEoHCBdph",
+      "popularity": 51,
+      "album": {
+        "name": "Pipes Of Peace",
+        "imgSrc": "https://i.scdn.co/image/0346531982047141c53644b8731a13a7614cef71",
+        "externalUrl": "https://open.spotify.com/album/46IdfvRRwqRTOynQpLKM9A"
+      }
+    },
+    {
+      "name": "Live And Let Die - Live",
+      "externalUrl": "https://open.spotify.com/track/2p5YsiLsdmFlBtJOmFXDDj",
+      "popularity": 50,
+      "album": {
+        "name": "Back In The U.S.",
+        "imgSrc": "https://i.scdn.co/image/53194f2a926d8a53cab381f17951e6de0aaa76ed",
+        "externalUrl": "https://open.spotify.com/album/0PoRrBKXrrsRTE4tyq45Xz"
+      }
+    },
+    {
+      "name": "Love Song to the Earth",
+      "externalUrl": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE",
+      "popularity": 54,
+      "album": {
+        "name": "Love Song to the Earth",
+        "imgSrc": "https://i.scdn.co/image/849b9951db3e5c22e22097edc3cb7bef4d1be188",
+        "externalUrl": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
+      }
+    },
+    {
+      "name": "Uncle Albert / Admiral Halsey - Medley / Remastered 2012",
+      "externalUrl": "https://open.spotify.com/track/5jvwnpJunnIVm1gLLMviGr",
+      "popularity": 50,
+      "album": {
+        "name": "RAM",
+        "imgSrc": "https://i.scdn.co/image/f64cdce9e2894cd56a42dfe0f30f4083c28a7c31",
+        "externalUrl": "https://open.spotify.com/album/03quwfxVOzXduvxgawbLRn"
+      }
+    },
+    {
+      "name": "Let Me Roll It - Remastered 2010",
+      "externalUrl": "https://open.spotify.com/track/0mRQp2HsSqX1MZuMvonAPN",
+      "popularity": 50,
+      "album": {
+        "name": "Band On The Run",
+        "imgSrc": "https://i.scdn.co/image/a7ae3955240bac82813a95af2479da22e0bb9dc8",
+        "externalUrl": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      }
+    },
+    {
+      "name": "Jet - Remastered 2010",
+      "externalUrl": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh",
+      "popularity": 49,
+      "album": {
+        "name": "Band On The Run",
+        "imgSrc": "https://i.scdn.co/image/a7ae3955240bac82813a95af2479da22e0bb9dc8",
+        "externalUrl": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      }
+    },
+    {
+      "name": "And I Love Her - Live On MTV Unplugged",
+      "externalUrl": "https://open.spotify.com/track/2TJhq8CrTlz6oRSljprEKg",
+      "popularity": 47,
+      "album": {
+        "name": "Unplugged - The Official Bootleg",
+        "imgSrc": "https://i.scdn.co/image/4446f9e7c16ef353e333ca2372c923c046f25fdf",
+        "externalUrl": "https://open.spotify.com/album/7KvVAe42ZV1LcfaW96mBNk"
+      }
+    }
+  ],
+  "relatedArtists": [
+    {
+      "name": "John Lennon",
+      "popularity": 68,
+      "imgSrc": "https://i.scdn.co/image/a9cd95aac96c60ea7bba7b0f475ea642bb27ef76"
+    },
+    {
+      "name": "George Harrison",
+      "popularity": 70,
+      "imgSrc": "https://i.scdn.co/image/4d9990ce9e262cd5c0bfb1aef5ee4380d3f3dc66"
+    },
+    {
+      "name": "Ringo Starr",
+      "popularity": 51,
+      "imgSrc": "https://i.scdn.co/image/bf05c9ed47f404fda1e5e8901edaddc10af3cac1"
+    },
+    {
+      "name": "Wings",
+      "popularity": 64,
+      "imgSrc": "https://i.scdn.co/image/826d206c73f95f1353383c17f27f22aeb628369a"
+    },
+    {
+      "name": "Badfinger",
+      "popularity": 55,
+      "imgSrc": "https://i.scdn.co/image/b97b494de7eb8619b1e2765ec5b0fe327e09b809"
+    },
+    {
+      "name": "George Martin",
+      "popularity": 43,
+      "imgSrc": "https://i.scdn.co/image/5aa5e5e3b2caae03c5a8ebdd2a60d7d717275e46"
+    },
+    {
+      "name": "The Beatles",
+      "popularity": 86,
+      "imgSrc": "https://i.scdn.co/image/197cff807611777427c93258f0a1ccdf6b013b09"
+    },
+    {
+      "name": "Electric Light Orchestra",
+      "popularity": 74,
+      "imgSrc": "https://i.scdn.co/image/030378e9f734621f88b8756b7be779891b1ccdef"
+    },
+    {
+      "name": "Todd Rundgren",
+      "popularity": 54,
+      "imgSrc": "https://i.scdn.co/image/8d470f070465fe4cdc07c98f64809b49769dd1b8"
+    },
+    {
+      "name": "The Beach Boys",
+      "popularity": 74,
+      "imgSrc": "https://i.scdn.co/image/21d36613eec63c86c1babec16fdfa8635ee63625"
+    },
+    {
+      "name": "The Who",
+      "popularity": 72,
+      "imgSrc": "https://i.scdn.co/image/92a5ad894b73b9e63739eb36a0500e86b2588353"
+    },
+    {
+      "name": "The Hollies",
+      "popularity": 64,
+      "imgSrc": "https://i.scdn.co/image/722e36849bde408b99330c713ebeb19157eabc89"
+    },
+    {
+      "name": "The Fireman",
+      "popularity": 24,
+      "imgSrc": "https://i.scdn.co/image/546aca1686dcb8a5982cbc79ec4544b7d44a5916"
+    },
+    {
+      "name": "Simon & Garfunkel",
+      "popularity": 74,
+      "imgSrc": "https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6"
+    },
+    {
+      "name": "James Taylor",
+      "popularity": 71,
+      "imgSrc": "https://i.scdn.co/image/747d0d0f181eb1c4bce048d4f905622b14647e83"
+    },
+    {
+      "name": "Bob Dylan",
+      "popularity": 75,
+      "imgSrc": "https://i.scdn.co/image/ef9b0b5b8083cf68958daa46382e309bf771b39f"
+    },
+    {
+      "name": "Billy Joel",
+      "popularity": 76,
+      "imgSrc": "https://i.scdn.co/image/0488b8c02bc9249ddf858e359dee66f206b1eb4f"
+    },
+    {
+      "name": "Yusuf / Cat Stevens",
+      "popularity": 70,
+      "imgSrc": "https://i.scdn.co/image/cf8d74c3c23290d94714eb76c35ce2920ec0b9cd"
+    },
+    {
+      "name": "Elton John",
+      "popularity": 79,
+      "imgSrc": "https://i.scdn.co/image/8b9b906a508209d627e3b185ab540520ea8c54c6"
+    },
+    {
+      "name": "The Rolling Stones",
+      "popularity": 81,
+      "imgSrc": "https://i.scdn.co/image/4226d2bbee2c44866eb0db3c88da0f26d7d12d5d"
+    }
+  ],
+  "albums": [
+    {
+      "name": "Flowers In The Dirt (Remastered)",
+      "imgSrc": "https://i.scdn.co/image/6ffa7693ee798427fd907c10a2b6a51d4d85e995",
+      "externalUrl": "https://open.spotify.com/album/7sS1d6HeGvQVmD4t94VrAo"
+    },
+    {
+      "name": "NEW (Collector's Edition)",
+      "imgSrc": "https://i.scdn.co/image/c166f69dbef33cc172b68900ceddb81ad18c6cc8",
+      "externalUrl": "https://open.spotify.com/album/608c6dgWXw15hfKngzmshw"
+    },
+    {
+      "name": "NEW",
+      "imgSrc": "https://i.scdn.co/image/113fcf9625ae6bdc182a7b6f394f9bdc6b52b87d",
+      "externalUrl": "https://open.spotify.com/album/1zd1DOaqrJq6tgdo74kAIj"
+    },
+    {
+      "name": "NEW (Deluxe Edition)",
+      "imgSrc": "https://i.scdn.co/image/6a63de50204014d975a78d70cf9d43898b6e160a",
+      "externalUrl": "https://open.spotify.com/album/5ehCZOiYbqGAizRCHNCZdH"
+    },
+    {
+      "name": "Kisses On The Bottom",
+      "imgSrc": "https://i.scdn.co/image/37d0cc3e6ebd58464cf0473fb2b06e712da34966",
+      "externalUrl": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
+    },
+    {
+      "name": "Paul McCartney's Ocean's Kingdom (Deluxe Version)",
+      "imgSrc": "https://i.scdn.co/image/28bde5f0dfffe35a57988320701d63b515ebbc5c",
+      "externalUrl": "https://open.spotify.com/album/4Pqdxo2xb5h46Ia7E3KdCT"
+    },
+    {
+      "name": "Ocean's Kingdom",
+      "imgSrc": "https://i.scdn.co/image/311a747e6f931cdb702825560bf08d30f5fe5d4a",
+      "externalUrl": "https://open.spotify.com/album/37RFYqmC8zCyDnXjcty0cd"
+    },
+    {
+      "name": "Good Evening New York City",
+      "imgSrc": "https://i.scdn.co/image/977fda222c5d7ab92d4fcabfecf3ca624add5c2c",
+      "externalUrl": "https://open.spotify.com/album/6UGJyQkR0V0SW94rZu8fS5"
+    },
+    {
+      "name": "Memory Almost Full (Deluxe Edition)",
+      "imgSrc": "https://i.scdn.co/image/20e5236b619117359ecba09bf5b61a68dd0e3a01",
+      "externalUrl": "https://open.spotify.com/album/3LdhH0cvUfOCHVp5jqTYld"
+    }
+  ]
+}

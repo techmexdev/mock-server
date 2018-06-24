@@ -1,5 +1,6 @@
 const express = require('express')
 const axios = require('axios')
+const artistProfile = require('./artist.json')
 
 if (process.env.SERVER_PORT === undefined) {
   console.log('ERROR: Environment variable SERVER_PORT should be set')
@@ -53,10 +54,8 @@ app.get('/api/festivals', (req, res) => res.send(festivalPrevs))
 app.get('/api/festivals/austin-city-limits', (req, res) => res.send(festival))
 
 app.get('/api/artists/:name', async (req, res) => {
-  const { name } = req.params
-  const artist = await axios('http://localhost:3001/artists/' + name).then(r => r.data)
   console.log('artist: ', artist)
-  res.send(artist)
+  res.send(artistProfile)
 })
 
 app.listen(process.env.SERVER_PORT, () => console.log(`listening at: ${process.env.SERVER_ADDRESS}`))
