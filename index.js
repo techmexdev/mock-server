@@ -58,4 +58,4 @@ app.get('/api/artists/:name', async (req, res) => {
   res.send(artistProfile)
 })
 
-app.listen(process.env.SERVER_PORT, () => console.log(`listening at: ${process.env.SERVER_ADDRESS}`))
+app.listen(process.env.SERVER_PORT, () => console.log(`listening at: ${process.env.SERVER_PORT}`))
